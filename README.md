@@ -1,9 +1,7 @@
-## Hi there 👋
 
 <!--
 **abhayrana-renex/abhayrana-renex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Banner -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxjb2NwMmlmNjY1NmVsdnQ1bGJ0cThsbWl3M3llZ2hrOGpnMGdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="100%" />
 
 # Hi 👋, I'm Abhay Rana  
 🚀 **AIML Enthusiast | Future Data Scientist | Neural Networks Explorer**  
@@ -17,6 +15,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: .ranaabhay528@gmail.com..
 - 😄 Pronouns: .Best me..
 - ⚡ Fun fact: .I love to be both sides of camera..
+
+- ## 🐍 Watch my contributions turn into a snake
+
+### SVG version
+![Snake animation](https://github.com/abhayrana-renex/abhayrana-renex/blob/output/snake.svg)
+
+### GIF version
+![Snake animation](https://github.com/abhayrana-renex/abhayrana-renex/blob/output/snake.gif)
 -->
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaey-rana)  
