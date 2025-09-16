@@ -2,18 +2,13 @@
 <!--
 **abhayrana-renex/abhayrana-renex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Banner -->
-
 <h1 align="center">Hi 👋, I'm Abhay Rana</h1>
 <h3 align="center">A passionate AIML Enthusiast & Future Data Scientist from India</h3>  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .LLM and Computer Vision..
 - 🌱 I’m currently learning .AI, ML, DL,.
-- 👯 I’m looking to collaborate on .Machine learning projects..
-- 🤔 I’m looking for help with .AGI..
-- 💬 Ask me about .AIML and development..
 - 📫 How to reach me: .ranaabhay528@gmail.com..
-- 😄 Pronouns: .Best me..
 - ⚡ Fun fact: .I love to be both sides of camera..
 
 - ## 🐍 Watch my contributions turn into a snake
