@@ -3,9 +3,7 @@
 **abhayrana-renex/abhayrana-renex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Abhay Rana</h1>
-<h3 align="center">A passionate AIML Engineer from India</h3>  
-Here are some ideas to get you started:
-
+<h3 align="center">A passionate AIML Engineer from India</h3> 
 - 🔭 I’m currently working on .LLM and Computer Vision..
 - 📫 How to reach me: .ranaabhay528@gmail.com..
 - ⚡ Fun fact: .I love to be both sides of camera..
